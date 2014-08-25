@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ONSViewController : UIViewController
+@interface ONSViewController : UITableViewController
 
 @end
