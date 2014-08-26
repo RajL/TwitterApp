@@ -29,7 +29,8 @@
 {
     UITableViewCell * cell =[tableView dequeueReusableCellWithIdentifier:@"cell" forIndexPath:indexPath];
     
-    cell.textLabel.text = @"RajL\n This is my first table view";
+    cell.textLabel.text = @"RajL";
+    cell.detailTextLabel.text = @"This is a tweet message";
     
     
     return cell;
