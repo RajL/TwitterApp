@@ -10,5 +10,8 @@
 
 @interface ONSViewController : UITableViewController
 
-@property (weak, nonatomic) IBOutlet UITableView *cellHeight;
+
+
+
+
 @end
