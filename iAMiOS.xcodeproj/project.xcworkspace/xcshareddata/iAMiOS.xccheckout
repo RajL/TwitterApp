@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>86FC3C3C-1A5D-46E5-9953-726CC06B7E85</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iAMiOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3990F84-AC3E-49FF-8C75-1D508F2543B8</key>
+		<string>https://github.com/RajL/FirstWeekAssignment.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iAMiOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B3990F84-AC3E-49FF-8C75-1D508F2543B8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RajL/FirstWeekAssignment.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3990F84-AC3E-49FF-8C75-1D508F2543B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3990F84-AC3E-49FF-8C75-1D508F2543B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iAMiOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
