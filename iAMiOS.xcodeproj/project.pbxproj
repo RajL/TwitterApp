@@ -457,6 +457,7 @@
 				0CF145B919ABC631007EB28A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0CF145BA19ABC631007EB28A /* Build configuration list for PBXNativeTarget "iAMiOSTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				0CF145BC19ABC631007EB28A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
