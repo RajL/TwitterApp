@@ -75,12 +75,16 @@
             //create an array for the accounts
             NSArray *arrayOfAccounts = [account accountsWithAccountType:accountType];
             
+            if ([arrayOfAccounts count] > 0) {
+                ACAccount *twitterAccount = [arrayOfAccounts firstObject];
+                
+            
                        
         } else {
             NSLog(@"%@", [error localizedDescription]);
         }
         
-    }];
+            ]};
     
 }
 
